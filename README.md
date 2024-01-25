@@ -1,4 +1,4 @@
-# expense-tracker
+# Expense-tracker
 Preview Link:
 https://priya-expensetracker.netlify.app/
 
